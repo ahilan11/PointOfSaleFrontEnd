@@ -1,0 +1,7 @@
+{
+    "protocol":"http",
+    "ip":"localhost",
+    "port":"8080",
+    "mainResource":"PointOfSale",
+    "rootRoute":"pointofsale"
+}
